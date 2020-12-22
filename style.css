@@ -1,0 +1,171 @@
+.t1 {
+position: absolute;
+width: 200px;
+height: 25px;
+left: 77px;
+top: 10px;
+
+font-family: monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #333333;
+}
+
+.img1 {
+position: absolute;
+left: 5.35%;
+right: 57.21%;
+top: 15%;
+bottom: 34.03%;
+width: 500px;
+height: 430px;
+}
+
+.btn1 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 650px;
+    top: 470px;
+    background-color: rgb(88, 87, 87);
+    color: white;
+}
+
+.h3 {
+position: absolute;
+width: 586px;
+height: 190px;
+left: 655px;
+top: 30px;
+
+font-family: monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 95px;
+letter-spacing: -0.035em;
+color: #333333;
+}
+
+.t2 {
+position: absolute;
+width: 381px;
+height: 108px;
+left: 656px;
+top: 290px;
+
+font-family: monospace;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+color: #4F4F4F;
+}
+
+.t3 {
+position: absolute;
+width: 300px;
+height: 17px;
+left: 530px;
+top: 560px;
+
+font-family: monospace;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+color: #333333;
+}
+
+@media only screen and (max-width: 376px) {
+.img1 {
+    position: absolute;
+    left: 11.73%;
+    right: 11.78%;
+    top: 11.49%;
+    bottom: 63.44%;
+    width: 286px;
+    height: 238px;
+}
+
+.h3 {
+position: absolute;
+width: 350px;
+height: 142px;
+left: 24px;
+top: 407px;
+
+font-family: monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 71px;
+letter-spacing: -0.035em;
+color: #333333;
+}
+
+.t2 {
+    position: absolute;
+    width: 328px;
+    height: 81px;
+    left: 23px;
+    top: 579px;
+    
+    font-family: monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+}
+
+.t3 {
+    position: absolute;
+    width: 226px;
+    height: 17px;
+    left: 75px;
+    top: 890px;
+    
+    font-family: monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #333333;
+}
+
+.btn1 {
+position: absolute;
+width: 216px;
+height: 68px;
+left: 24px;
+top: 726px;
+
+}
+
+.t1 {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 24px;
+    top: 20px;
+    
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    
+    color: #333333;
+}
+
+}
